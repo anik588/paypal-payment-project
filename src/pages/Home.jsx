@@ -6,12 +6,23 @@ export default function Home() {
       
 
       
-      <h1 className="text-3xl sm:text-4xl font-bold mb-4 flex justify-center items-center gap-2">
-        💰 Paypal Payment demo Project
+      <h1 className="text-3xl sm:text-3xl font-bold mb-4 flex justify-center items-center gap-2">
+        💰 Paypal Payment Demo Project
       </h1>
       <p className="mb-6 text-sm sm:text-lg">
-        Professional React Portfolio Template – only <strong>$20</strong>
+        Want to integrate payment system in your web app ? <br/>– Starts <strong>$20/hour</strong>
       </p>
+          
+        <div className="m-6">
+          <a
+            href="https://sajjad-anik.up.railway.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-indigo-400 hover:text-white underline underline-offset-4 decoration-indigo-400 hover:decoration-white transition duration-300 ease-in-out"
+          >
+            🔗 Visit my website to contact
+          </a>
+        </div>
 
       <Link
         to="/checkout"
