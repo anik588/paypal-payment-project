@@ -3,14 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=0099FF&center=true&vCenter=true&width=700&lines=PayPal+Checkout+Integration+with+React+%2B+Vite" alt="Typing SVG" />
 </p>
-<p align="center">
-  <a href="https://paypal-payment-project.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Visit+Live+Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site">
-  </a>
-  <a href="https://github.com/anik588/paypal-payment-project" target="_blank">
-    <img src="https://img.shields.io/badge/📂 Source+Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repo">
-  </a>
-</p>
+
 <h1 align="center">💳 PayPal Checkout Integration — React + Vite</h1>
 <p align="center"><strong>A modern, minimal, and responsive PayPal Smart Button integration built using React, Vite, and Tailwind CSS — deployed on Vercel.</strong></p>
 <hr/>
