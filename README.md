@@ -15,6 +15,16 @@
 <p align="center"><strong>A modern, minimal, and responsive PayPal Smart Button integration built using React, Vite, and Tailwind CSS — deployed on Vercel.</strong></p>
 <hr/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=550&lines=👉+Click+here+to+experience+the+Live+Demo+🚀" alt="Live Demo Typing Animation" />
+</p>
+<p align="center">
+  <a href="https://paypal-payment-project.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/👉%20Live%20Demo%20Click%20Here-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Button">
+  </a>
+</p>
+
+<hr/>
 <h2>🚀 Features</h2>
 <ul>
   <li>⚡ Blazing-fast React + Vite setup</li>
@@ -33,7 +43,7 @@
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
 </p>
 <hr/>
-<h3 align="center">🔗 <a href="https://paypal-payment-project.vercel.app/" target="_blank">Click here to experience the live demo 🚀</a></h3>
+
 <h2>🌐 Hosting</h2>
 <p>
   <a href="https://vercel.com/" target="_blank">
