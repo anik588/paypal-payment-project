@@ -7,7 +7,7 @@ export default function Home() {
 
       
       <h1 className="text-3xl sm:text-4xl font-bold mb-4 flex justify-center items-center gap-2">
-        🚀 Buy Portfolio Template
+        💰 Paypal Payment demo Project
       </h1>
       <p className="mb-6 text-sm sm:text-lg">
         Professional React Portfolio Template – only <strong>$20</strong>
