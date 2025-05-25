@@ -33,11 +33,3 @@
   <img src="https://img.shields.io/badge/React Router-D02B2B?style=for-the-badge&logo=reactrouter&logoColor=white"/>
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
 </p>
-
-<h2>📦 Installation</h2>
-
-```bash
-git clone https://github.com/anik588/paypal-payment-project.git
-cd paypal-payment-project
-npm install
-npm run dev
